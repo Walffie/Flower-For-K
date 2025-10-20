@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('Remember Thao, bloom like a flower.').split('')
+    const titles = ('Remember Khue, always stay in bloom.').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
